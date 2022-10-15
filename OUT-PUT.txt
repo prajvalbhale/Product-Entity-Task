@@ -1,0 +1,57 @@
+[
+    {
+        "productid": 1001,
+        "productname": "Lenovo Yoga",
+        "producttype": "Laptop",
+        "productcategory": "Electronics",
+        "productprice": 45000,
+        "discount": 6750.0,
+        "gst": 8100.0,
+        "deliverycharge": 350.0,
+        "finalPrice": 46350.0
+    },
+    {
+        "productid": 1002,
+        "productname": "LG Washing Machine",
+        "producttype": "Washing Machine",
+        "productcategory": "Home Appliances",
+        "productprice": 25000,
+        "discount": 5500.0,
+        "gst": 6000.0,
+        "deliverycharge": 800.0,
+        "finalPrice": 25500.0
+    },
+    {
+        "productid": 1003,
+        "productname": "HP Pavilion 360",
+        "producttype": "Laptop",
+        "productcategory": "Electronics",
+        "productprice": 60000,
+        "discount": 9000.0,
+        "gst": 10800.0,
+        "deliverycharge": 350.0,
+        "finalPrice": 61800.0
+    },
+    {
+        "productid": 1004,
+        "productname": "US Polo Assn",
+        "producttype": "T-Shirt",
+        "productcategory": "Clothing",
+        "productprice": 1200,
+        "discount": 480.0,
+        "gst": 144.0,
+        "deliverycharge": 0.0,
+        "finalPrice": 864.0
+    },
+    {
+        "productid": 1005,
+        "productname": "Neelkamal Been Bag",
+        "producttype": "Sofa Set Is",
+        "productcategory": "Furniture",
+        "productprice": 3500,
+        "discount": 35.0,
+        "gst": 63.0,
+        "deliverycharge": 300.0,
+        "finalPrice": 378.0
+    }
+]
